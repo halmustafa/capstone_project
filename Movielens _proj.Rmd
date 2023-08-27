@@ -2,7 +2,7 @@
 title: "MovieLens.Recommendation systems project"
 author: "Hussin Almustafa"
 date: "2023-08-13"
-output: pdf_document
+output: html_document
 ---
  ### Introduction:
  
